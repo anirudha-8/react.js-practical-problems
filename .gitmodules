@@ -1,3 +1,6 @@
 [submodule "01-hello-world-react-problem"]
 	path = 01-hello-world-react-problem
 	url = https://github.com/anirudha-8/01-hello-world-react-problem.git
+[submodule "02-counter-application-react-problem"]
+	path = 02-counter-application-react-problem
+	url = https://github.com/anirudha-8/02-counter-application-react-problem.git
