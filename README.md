@@ -52,8 +52,8 @@ Each submodule contains its own codebase and README. This modular structure ensu
 
 | #   | Problem Name                      | Description                               |
 |-----|-----------------------------------|-------------------------------------------|
-| 1   | [Hello World](https://github.com/anirudha-8/01-hello-world-react-problem.git)                       | Create a simple React component.          |
-| 2   | counter app                       | Implement parent-child communication.     |
+| 1   | [Hello World](https://github.com/anirudha-8/01-hello-world-react-problem.git) | Create a simple React component.          |
+| 2   | [counter app](https://github.com/anirudha-8/02-counter-application-react-problem.git) | Build a simple counter application with increment and decrement buttons.     |
 | 3   | show user input                   | Manage state within a component.          |
 | ... | More to Come!                     | Stay tuned for additional challenges.     |
 
