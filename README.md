@@ -11,8 +11,8 @@ Welcome to the **🔥React 30+ Practical Problems🔥** repository!  Dive into o
 ```js
 react-30-practical-problems/
 ├── README.md
-├── 01-hello-world-problem/ (submodule)
-├── 02-counter-app-problem/ (submodule)
+├── 01-hello-world-react-problem/ (submodule)
+├── 02-counter-app-react-problem/ (submodule)
 ├── 02-show-user-input-problem/ (submodule)
 └── ...
 ```
@@ -40,7 +40,7 @@ Each submodule contains its own codebase and README. This modular structure ensu
 3. **Navigate to a Specific Problem:**
 
    ```bash
-   cd 01-hello-world-problem
+   cd 01-hello-world-react-problem
    ```
 
 4. **Follow the Problem-Specific README:**
@@ -52,7 +52,7 @@ Each submodule contains its own codebase and README. This modular structure ensu
 
 | #   | Problem Name                      | Description                               |
 |-----|-----------------------------------|-------------------------------------------|
-| 1   | [Hello World](https://github.com/anirudha-8/01-hello-world-problem.git)                       | Create a simple React component.          |
+| 1   | [Hello World](https://github.com/anirudha-8/01-hello-world-react-problem.git)                       | Create a simple React component.          |
 | 2   | counter app                       | Implement parent-child communication.     |
 | 3   | show user input                   | Manage state within a component.          |
 | ... | More to Come!                     | Stay tuned for additional challenges.     |
