@@ -64,8 +64,11 @@ Each submodule contains its own codebase and README. This modular structure ensu
 ## ✨ Key Features
 
 - **📈 Beginner to Advanced Problems**: Gradually build your expertise.
+
 - **🔗 Modular Submodules**: Solve each challenge independently.
+
 - **📖 Practical Learning**: Gain hands-on experience with React.
+
 - **🛠️ Real-World Scenarios**: Prepare for professional React development.
 
 ---
@@ -75,8 +78,11 @@ Each submodule contains its own codebase and README. This modular structure ensu
 We welcome contributions to enhance this repository! Here’s how you can contribute:
 
 1. Fork the repository.
+
 2. Add a new React problem as a submodule.
+
 3. Update the main repository’s problem list.
+
 4. Submit a pull request with your changes.
 
 ---
@@ -85,4 +91,4 @@ We welcome contributions to enhance this repository! Here’s how you can contri
 
 This repository is your ultimate hands-on resource for learning React through practice. Whether you’re just starting out or aiming to level up your skills, these challenges will guide you every step of the way.
 
-**Happy Coding! 💻**
+Happy Coding! 💻
