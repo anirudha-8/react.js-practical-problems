@@ -55,7 +55,8 @@ Each submodule contains its own codebase and README. This modular structure ensu
 | 1   | [Hello World](https://github.com/anirudha-8/01-hello-world-react-problem.git) | Create a simple React component. |
 | 2   | [counter app](https://github.com/anirudha-8/02-counter-application-react-problem.git) | Build a simple counter application with increment and decrement buttons. |
 | 3   | [show user input](https://github.com/anirudha-8/03-show-user-input-react-problem.git) | Build a React application with a form that updates and displays user input in real-time as they type. |
-| 3   | [show list of items](https://github.com/anirudha-8/04-show-list-of-items-react-problem.git) | Build a React application with a `ShowList` component to dynamically display a numbered list of items. |
+| 4   | [show list of items](https://github.com/anirudha-8/04-show-list-of-items-react-problem.git) | Build a React application with a `ShowList` component to dynamically display a numbered list of items. |
+| 5   | [basic toggle switch](https://github.com/anirudha-8/05-toggle-switch-react-problem.git) | Build a React application with a ToggleSwitch component to demonstrate toggling functionality. |
 | ... | More to Come! | Stay tuned for additional challenges. |
 
 ---
