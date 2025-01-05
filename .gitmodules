@@ -10,3 +10,6 @@
 [submodule "04-show-list-of-items-react-problem"]
 	path = 04-show-list-of-items-react-problem
 	url = https://github.com/anirudha-8/04-show-list-of-items-react-problem.git
+[submodule "05-toggle-switch-react-problem"]
+	path = 05-toggle-switch-react-problem
+	url = https://github.com/anirudha-8/05-toggle-switch-react-problem.git
