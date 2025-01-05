@@ -7,3 +7,6 @@
 [submodule "03-show-user-input-react-problem"]
 	path = 03-show-user-input-react-problem
 	url = https://github.com/anirudha-8/03-show-user-input-react-problem.git
+[submodule "04-show-list-of-items-react-problem"]
+	path = 04-show-list-of-items-react-problem
+	url = https://github.com/anirudha-8/04-show-list-of-items-react-problem.git
