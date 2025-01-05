@@ -13,3 +13,6 @@
 [submodule "05-toggle-switch-react-problem"]
 	path = 05-toggle-switch-react-problem
 	url = https://github.com/anirudha-8/05-toggle-switch-react-problem.git
+[submodule "06-fetch-api-data-react-problem"]
+	path = 06-fetch-api-data-react-problem
+	url = https://github.com/anirudha-8/06-fetch-api-data-react-problem.git
