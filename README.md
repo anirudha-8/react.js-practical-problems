@@ -58,6 +58,7 @@ Each submodule contains its own codebase and README. This modular structure ensu
 | 4   | [show list of items](https://github.com/anirudha-8/04-show-list-of-items-react-problem.git) | Build a React application with a `ShowList` component to dynamically display a numbered list of items. |
 | 5   | [basic toggle switch](https://github.com/anirudha-8/05-toggle-switch-react-problem.git) | Build a React application with a ToggleSwitch component to demonstrate toggling functionality. |
 | 6   | [fetch api data](https://github.com/anirudha-8/06-fetch-api-data-react-problem.git) | Build a React application with a Post component that fetches data from an API and dynamically displays it on the page. |
+| 7   | [countdown timer](https://github.com/anirudha-8/07-countdown-timer-react-problem.git) | Build a React application with a `Timer` component to demonstrate countdown functionality. |
 | ... | More to Come! | Stay tuned for additional challenges. |
 
 ---
