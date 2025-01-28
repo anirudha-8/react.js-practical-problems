@@ -25,3 +25,6 @@
 [submodule "09-change-background-react-problem"]
 	path = 09-change-background-react-problem
 	url = https://github.com/anirudha-8/09-change-background-react-problem.git
+[submodule "10-basic-react-routing-react-problem"]
+	path = 10-basic-react-routing-react-problem
+	url = https://github.com/anirudha-8/10-basic-react-routing-react-problem.git
