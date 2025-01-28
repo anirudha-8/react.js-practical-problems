@@ -62,6 +62,7 @@ Each submodule contains its own codebase and README. This modular structure ensu
 | 8   | [simple todo list application](https://github.com/anirudha-8/08-simple-todo-app-react-problem.git) | Create a React application that features a `ToDoList` component. The component should allow users to, add new tasks by entering text and clicking an "Add" button, remove tasks by clicking a "Remove" button next to each task and display the list of tasks dynamically as items are added or removed. |
 | 9   | [dynamic background color changer](https://github.com/anirudha-8/09-change-background-react-problem.git) | Build a React application with a `ColorChanger` component to demonstrate dynamic style changes. |
 | 10  | [basic routing with react router](https://github.com/anirudha-8/10-basic-react-routing-react-problem.git) | Build a React application with basic routing functionality using React Router. |
+| 11  | [random quote generator](https://github.com/anirudha-8/11-random-quote-react-problem.git) | Build a React application where a `RandomQuote` component generates and displays a new random quote each time a button is clicked. |
 | ... | More to Come! | Stay tuned for additional challenges. |
 
 ---
