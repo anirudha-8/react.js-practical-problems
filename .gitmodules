@@ -31,3 +31,6 @@
 [submodule "11-random-quote-react-problem"]
 	path = 11-random-quote-react-problem
 	url = https://github.com/anirudha-8/11-random-quote-react-problem.git
+[submodule "12-file-uploader-react-problem"]
+	path = 12-file-uploader-react-problem
+	url = https://github.com/anirudha-8/12-file-uploader-react-problem.git
