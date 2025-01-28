@@ -16,3 +16,6 @@
 [submodule "06-fetch-api-data-react-problem"]
 	path = 06-fetch-api-data-react-problem
 	url = https://github.com/anirudha-8/06-fetch-api-data-react-problem.git
+[submodule "07-countdown-timer-react-problem"]
+	path = 07-countdown-timer-react-problem
+	url = https://github.com/anirudha-8/07-countdown-timer-react-problem.git
