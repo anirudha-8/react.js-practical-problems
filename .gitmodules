@@ -22,3 +22,6 @@
 [submodule "08-simple-todo-app-react-problem"]
 	path = 08-simple-todo-app-react-problem
 	url = https://github.com/anirudha-8/08-simple-todo-app-react-problem.git
+[submodule "09-change-background-react-problem"]
+	path = 09-change-background-react-problem
+	url = https://github.com/anirudha-8/09-change-background-react-problem.git
