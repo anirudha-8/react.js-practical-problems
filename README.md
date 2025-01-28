@@ -63,6 +63,7 @@ Each submodule contains its own codebase and README. This modular structure ensu
 | 9   | [dynamic background color changer](https://github.com/anirudha-8/09-change-background-react-problem.git) | Build a React application with a `ColorChanger` component to demonstrate dynamic style changes. |
 | 10  | [basic routing with react router](https://github.com/anirudha-8/10-basic-react-routing-react-problem.git) | Build a React application with basic routing functionality using React Router. |
 | 11  | [random quote generator](https://github.com/anirudha-8/11-random-quote-react-problem.git) | Build a React application where a `RandomQuote` component generates and displays a new random quote each time a button is clicked. |
+| 12  | [image file uploader](https://github.com/anirudha-8/12-file-uploader-react-problem.git) | Build a React application with a `FileUploader` component that enables users to upload image files and preview them. |
 | ... | More to Come! | Stay tuned for additional challenges. |
 
 ---
