@@ -19,3 +19,6 @@
 [submodule "07-countdown-timer-react-problem"]
 	path = 07-countdown-timer-react-problem
 	url = https://github.com/anirudha-8/07-countdown-timer-react-problem.git
+[submodule "08-simple-todo-app-react-problem"]
+	path = 08-simple-todo-app-react-problem
+	url = https://github.com/anirudha-8/08-simple-todo-app-react-problem.git
