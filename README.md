@@ -60,6 +60,7 @@ Each submodule contains its own codebase and README. This modular structure ensu
 | 6   | [fetch api data](https://github.com/anirudha-8/06-fetch-api-data-react-problem.git) | Build a React application with a Post component that fetches data from an API and dynamically displays it on the page. |
 | 7   | [countdown timer](https://github.com/anirudha-8/07-countdown-timer-react-problem.git) | Build a React application with a `Timer` component to demonstrate countdown functionality. |
 | 8   | [simple todo list application](https://github.com/anirudha-8/08-simple-todo-app-react-problem.git) | Create a React application that features a `ToDoList` component. The component should allow users to, add new tasks by entering text and clicking an "Add" button, remove tasks by clicking a "Remove" button next to each task and display the list of tasks dynamically as items are added or removed. |
+| 9   | [dynamic background color changer](https://github.com/anirudha-8/09-change-background-react-problem.git) | Build a React application with a `ColorChanger` component to demonstrate dynamic style changes. |
 | ... | More to Come! | Stay tuned for additional challenges. |
 
 ---
