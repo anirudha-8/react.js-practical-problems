@@ -64,6 +64,10 @@ Each submodule contains its own codebase and README. This modular structure ensu
 | 10  | [basic routing with react router](https://github.com/anirudha-8/10-basic-react-routing-react-problem.git) | Build a React application with basic routing functionality using React Router. |
 | 11  | [random quote generator](https://github.com/anirudha-8/11-random-quote-react-problem.git) | Build a React application where a `RandomQuote` component generates and displays a new random quote each time a button is clicked. |
 | 12  | [image file uploader](https://github.com/anirudha-8/12-file-uploader-react-problem.git) | Build a React application with a `FileUploader` component that enables users to upload image files and preview them. |
+| 13  | [basic authentication form](https://github.com/anirudha-8/13-basic-authentication-form-react-problem.git) | Build a React application with an `AuthForm` component that allows users to register and log in. |
+| 14  | [simple weather app](https://github.com/anirudha-8/14-simple-weather-app-react-problem.git) | Build a React application that fetches weather data based on the user's location and displays key weather details. |
+| 15  | [search bar with filtering](https://github.com/anirudha-8/15-simple-search-bar-react-problem.git) | Build a React application that allows users to search for items from a list and dynamically filter results as they type. |
+| 16  | [search bar with filtering](https://github.com/anirudha-8/16-simple-pagination-react-problem.git) | Build a React application that includes a **pagination component** for navigating a large dataset. |
 | ... | More to Come! | Stay tuned for additional challenges. |
 
 ---
