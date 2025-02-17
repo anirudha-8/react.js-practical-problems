@@ -49,3 +49,6 @@
 [submodule "17-color-picker-react-problem"]
 	path = 17-color-picker-react-problem
 	url = https://github.com/anirudha-8/17-color-picker-react-problem.git
+[submodule "18-responsive-navigation-menu-react-problem"]
+	path = 18-responsive-navigation-menu-react-problem
+	url = https://github.com/anirudha-8/18-responsive-navigation-menu-react-problem.git
