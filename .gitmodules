@@ -37,3 +37,6 @@
 [submodule "13-basic-authentication-form-react-problem"]
 	path = 13-basic-authentication-form-react-problem
 	url = https://github.com/anirudha-8/13-basic-authentication-form-react-problem.git
+[submodule "14-simple-weather-app-react-problem"]
+	path = 14-simple-weather-app-react-problem
+	url = https://github.com/anirudha-8/14-simple-weather-app-react-problem.git
