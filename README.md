@@ -68,6 +68,7 @@ Each submodule contains its own codebase and README. This modular structure ensu
 | 14  | [simple weather app](https://github.com/anirudha-8/14-simple-weather-app-react-problem.git) | Build a React application that fetches weather data based on the user's location and displays key weather details. |
 | 15  | [search bar with filtering](https://github.com/anirudha-8/15-simple-search-bar-react-problem.git) | Build a React application that allows users to search for items from a list and dynamically filter results as they type. |
 | 16  | [search bar with filtering](https://github.com/anirudha-8/16-simple-pagination-react-problem.git) | Build a React application that includes a **pagination component** for navigating a large dataset. |
+| 17  | [color picker](https://github.com/anirudha-8/17-color-picker-react-problem.git) | Build a React application that features a **color picker** component to enable users to choose and apply colors. |
 | ... | More to Come! | Stay tuned for additional challenges. |
 
 ---
