@@ -43,3 +43,6 @@
 [submodule "15-simple-search-bar-react-problem"]
 	path = 15-simple-search-bar-react-problem
 	url = https://github.com/anirudha-8/15-simple-search-bar-react-problem.git
+[submodule "16-simple-pagination-react-problem"]
+	path = 16-simple-pagination-react-problem
+	url = https://github.com/anirudha-8/16-simple-pagination-react-problem.git
