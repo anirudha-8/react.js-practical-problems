@@ -40,3 +40,6 @@
 [submodule "14-simple-weather-app-react-problem"]
 	path = 14-simple-weather-app-react-problem
 	url = https://github.com/anirudha-8/14-simple-weather-app-react-problem.git
+[submodule "15-simple-search-bar-react-problem"]
+	path = 15-simple-search-bar-react-problem
+	url = https://github.com/anirudha-8/15-simple-search-bar-react-problem.git
