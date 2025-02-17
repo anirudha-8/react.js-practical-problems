@@ -46,3 +46,6 @@
 [submodule "16-simple-pagination-react-problem"]
 	path = 16-simple-pagination-react-problem
 	url = https://github.com/anirudha-8/16-simple-pagination-react-problem.git
+[submodule "17-color-picker-react-problem"]
+	path = 17-color-picker-react-problem
+	url = https://github.com/anirudha-8/17-color-picker-react-problem.git
