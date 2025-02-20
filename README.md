@@ -70,6 +70,7 @@ Each submodule contains its own codebase and README. This modular structure ensu
 | 16  | [search bar with filtering](https://github.com/anirudha-8/16-simple-pagination-react-problem.git) | Build a React application that includes a **pagination component** for navigating a large dataset. |
 | 17  | [color picker](https://github.com/anirudha-8/17-color-picker-react-problem.git) | Build a React application that features a **color picker** component to enable users to choose and apply colors. |
 | 18  | [responsive navigation menu](https://github.com/anirudha-8/18-responsive-navigation-menu-react-problem.git) | Build a **React navigation menu** that adapts to different screen sizes and features a **hamburger menu** for mobile users. |
+| 19  | [theme switcher - light / dark using Context API](https://github.com/anirudha-8/19-light-dark-theme-react-problem.git) | Build a context provider that allows users to switch between **light** and **dark** themes, and apply the selected theme across different parts of the app. |
 | ... | More to Come! | Stay tuned for additional challenges. |
 
 ---
