@@ -52,3 +52,6 @@
 [submodule "18-responsive-navigation-menu-react-problem"]
 	path = 18-responsive-navigation-menu-react-problem
 	url = https://github.com/anirudha-8/18-responsive-navigation-menu-react-problem.git
+[submodule "19-light-dark-theme-react-problem"]
+	path = 19-light-dark-theme-react-problem
+	url = https://github.com/anirudha-8/19-light-dark-theme-react-problem.git
